@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercise_Two</string>
+    <string name="learn">Learn</string>
+    <string name="practice">Practice</string>
+    <string name="go_to_relative_layout">Go to relative layout</string>
+    <string name="go_to_linear_layout">Go To Linear Layout</string>
+    <string name="linear">EX2 WITH LINEAR LAYOUT</string>
+    <string name="relative">EX2 WITH RELATIVE LAYOUT</string>
+</resources>
